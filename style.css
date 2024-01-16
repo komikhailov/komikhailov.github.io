@@ -19,7 +19,7 @@ h1 {
 }
 h2 {
   font-size: 200%;
-  color: #fafafa;
+  color: rgb(255, 255, 255);
 }
 p {
   color: #fafafa;
@@ -57,18 +57,4 @@ a {
   font-weight: bold;
   font-size: 150%;
   text-decoration: none;
-}
-
-/*navigation bar style*/
-nav {
-  text-align: center;
-  word-spacing: 30px;
-  padding: 10px;
-  font-family: Helvetica;
-}
-/*navigation bar button style*/
-nav a {
-  color: #000000;
-  text-decoration: none;
-  font-size: larger;
 }
