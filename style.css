@@ -15,9 +15,14 @@ footer {
 }
 h1 {
   font-size: 300%;
+  color: white;
 }
 h2 {
   font-size: 200%;
+  color: white;
+}
+p {
+  color: white;
 }
 
 /*profile image and heading style*/
@@ -41,10 +46,17 @@ h2 {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 .social-links {
+  width: 100%;
   text-align: center;
   padding: 20px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+a {
+  font-weight: bold;
+  font-size: 150%;
+  text-decoration: none;
 }
 
 /*navigation bar style*/
